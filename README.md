@@ -14,8 +14,6 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=swethakey&show_icons=true&locale=en" alt="swethakey" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakey&" alt="swethakey" /></p>
 
 
