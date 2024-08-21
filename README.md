@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swetha Reddy</h1>
-<h3 align="center">I am a Certified Full Stack Developer with Expertise in JavaScript, Python, and Web Technologies.</h3>
+<h3 align="center">A passionate FullStack Developer from Sweden</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swethakey&label=Profile%20views&color=0e75b6&style=flat" alt="swethakey" /> </p>
