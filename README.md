@@ -14,7 +14,7 @@
 
 
 <h3 align="left">My GitHub Stats</h3>
-p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakey&" alt="swethakey" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakey&" alt="swethakey" /></p>
 
 
 
