@@ -16,5 +16,34 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swethakey&" alt="swethakey" /></p>
 
 
+Hi 👋, I am Vanessa!
+Welcome to my GitHub Profile!
+
+![header](/linkedin-banner-light.PNG)
+I'm a self-taught passionate web/app developer learner!
+
+## Want to know more about me and my Projects?
+
+In my gitHub page you can check my open repos and learn a bit of the personal projects I have been working on to learn
+programming - A journey I started mid 2023 that brought me great skills that I am eager to improve everyday and bring
+to life many awesome projects. But I also invite you to:
+
+#### - Check out my [Portfolio](https://vanessarruda.com);
+I've created it to showcase some of my projects ❤
+
+#### - Check out my [LinkedIn](https://www.linkedin.com/in/arrudavanessa/) profile;
+Check out my professional background details
+
+<code><img height="20" alt="html"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" alt="css"
+src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
