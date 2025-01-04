@@ -3,7 +3,7 @@ Welcome to my GitHub Profile!
 
 ![linkedin-banner-light](https://github.com/user-attachments/assets/a41988d6-61c5-4b71-8a55-93d1862450d7)
 
-I'm a self-taught passionate web/app developer learner!
+I'm a self-taught passionate Software Tester and Python Developer Django framework!
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/113302094/211284885-f4291eef-88a6-48cb-a06e-28c3481a75b0.gif" >
 
