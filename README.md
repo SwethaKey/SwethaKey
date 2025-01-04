@@ -13,7 +13,7 @@ I'm a self-taught passionate Software Tester and Python Developer Django framewo
 ## Want to know more about me and my Projects?
 
 In my gitHub page you can check my open repos and learn a bit of the personal projects I have been working on to learn
-programming - A journey I started 2023 that brought me great skills that I am eager to improve everyday and bring
+programming - A journey I started that brought me great skills that I am eager to improve everyday and bring
 to life many awesome projects. But I also invite you to:
 
 
