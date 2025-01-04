@@ -16,8 +16,8 @@ In my gitHub page you can check my open repos and learn a bit of the personal pr
 programming - A journey I started 2023 that brought me great skills that I am eager to improve everyday and bring
 to life many awesome projects. But I also invite you to:
 
-#### - Check out my [Portfolio](https://swethakey.github.io/);
-I've created it to showcase some of my projects ❤
+/// #### - Check out my [Portfolio](https://swethakey.github.io/);
+I've created it to showcase some of my projects ❤///
 
 #### - Check out my [LinkedIn](https://www.linkedin.com/in/swetha-reddy-cv/) profile;
 Check out my professional background details
